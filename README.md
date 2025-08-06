@@ -167,14 +167,14 @@ Me chamo Jeremias Pinheiro, tenho 21 anos e sou natural do Rio Grande do Norte. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jeremiasp7&theme=tokyonight&layout=compact&custom_title=Estatísticas do Github de Jeremias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api?username=Jeremiasp7&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />    
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiasp7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiasp7&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
 
